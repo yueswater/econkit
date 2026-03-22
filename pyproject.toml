@@ -31,10 +31,10 @@ data = ["pandas>=2.2", "requests>=2.32"]
 notebook = ["jupyterlab>=4.0", "ipywidgets>=8.0"]
 all = ["pandas>=2.2", "requests>=2.32", "jupyterlab>=4.0", "ipywidgets>=8.0"]
 
-# [project.urls]
-# Homepage = "https://github.com/anthonysung/econkit"
-# Repository = "https://github.com/anthonysung/econkit"
-# Issues = "https://github.com/anthonysung/econkit/issues"
+[project.urls]
+Homepage = "https://github.com/yueswater/econkit"
+Repository = "https://github.com/yueswater/econkit"
+Issues = "https://github.com/yueswater/econkit/issues"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
